@@ -41,3 +41,4 @@ Deliverables
 🎯 Secure handling of sensitive data using advanced encryption standards.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/79d47eea-c57c-41a2-a122-3e00fb50a98a)
